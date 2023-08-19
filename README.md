@@ -1,4 +1,4 @@
-# Covid Data Analisys
+# Covid Data Analysis
 ![image](https://github.com/Nbn99/Covid_data_analisys/assets/109953057/8d9e56e9-e607-49de-9e6f-0a470fc01385)
 
 https://public.tableau.com/app/profile/jagoda.giedroj./viz/covidworld_16924364062040/Sheet1?publish=yes
